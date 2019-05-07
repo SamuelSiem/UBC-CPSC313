@@ -1,0 +1,4 @@
+ 
+Checksums on plain files
+ 
+Stat on each file in the system
